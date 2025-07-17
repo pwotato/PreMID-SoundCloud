@@ -8,7 +8,7 @@ All credits to original owners
 **Find PreMID Here: https://premid.app/ | https://github.com/PreMiD/Activities | https://github.com/PreMiD/Activities/tree/main/websites/S/SoundCloud**
 
 # Usage:
-1. Install PreMID
+1. Install PreMID (https://premid.app/downloads)
 2. Setup PreMID for development (guide here: https://docs.premid.app/en/dev/presence)
 3. Follow the "Compiling / Modifying a Presence" instructions (command: npx pmd dev SoundCloud)
 4. Go to "Activities\websites\S\SoundCloud"
