@@ -1,6 +1,8 @@
 # PreMID-SoundCloud
-**Tweaked SoundCloud presence for PreMID**
-  I take no credit for this!
+**Tweaked SoundCloud discord presence for PreMID**
+
+I take no credit for this!
+
 **Find PreMID Here: https://premid.app/ | https://github.com/PreMiD/Activities**
 
 # Usage:
