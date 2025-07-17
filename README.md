@@ -1,7 +1,7 @@
 # PreMID-SoundCloud
 **Tweaked SoundCloud discord presence for PreMID**
 
-I take no credit for this!
+I take no credit for this (or care about it,  just using this to store it)
 
 All credits to original owners
 
