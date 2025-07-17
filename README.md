@@ -3,7 +3,9 @@
 
 I take no credit for this!
 
-**Find PreMID Here: https://premid.app/ | https://github.com/PreMiD/Activities**
+All credits to original owners
+
+**Find PreMID Here: https://premid.app/ | https://github.com/PreMiD/Activities | https://github.com/PreMiD/Activities/tree/main/websites/S/SoundCloud**
 
 # Usage:
 1. Install PreMID
